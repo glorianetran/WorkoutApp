@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WorkoutWithStopWatch</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="quotes">
+        <item>Sweat like a sinner in church.</item>
+        <item>I run. I\'m slower than dial-up Internet, but I run.</item>
+        <item>Running late is my cardio.</item>
+        <item>If you have time for Facebook, you have time for exercise.</item>
+        <item>If at first you don\'t succeed, fix your ponytail and try again.</item>
+        <item>No matter how slow you go, you are still lapping everyone on the couch.</item>
+    </array>
+</resources>
